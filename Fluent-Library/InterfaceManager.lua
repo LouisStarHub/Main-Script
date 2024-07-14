@@ -5,7 +5,7 @@ local InterfaceManager = {} do
 
     InterfaceManager.Settings = {
         Theme = "Darker",
-        Acrylic = true,
+        Acrylic = false,
         Transparency = true,
         MenuKeybind = Enum.KeyCode.End
     }
